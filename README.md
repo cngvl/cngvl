@@ -4,7 +4,7 @@ Here's a bit about me!
 * I'm a recent bootcamp graduate looking to become a software engineer with a particular interest in medical technology .
 * I enjoy lifting (moderately) heavy weights 🏋️ and swinging around on gymnastic rings! 
 
-
+<br>
 Projects that I'm currently working on 🧱 
 * Building my personal portfolio
 * A simple recipes app using Ruby on Rails with React
