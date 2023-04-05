@@ -7,7 +7,7 @@ Here's a bit about me!
 
 Projects that I'm currently working on 🧱 ...
 * Building my personal portfolio
-* A simple recipes app using Ruby on Rails with React
+* Slowly chipping away at LeetCode questions 💀💀💀
 <br>
 
 Projects that I'm planning to do in the near future ⏳ ... 
@@ -16,5 +16,5 @@ Projects that I'm planning to do in the near future ⏳ ...
 <br>
 
 I'm looking for 👀 ...
-* Any learning resources that have been proven useful to you that'll help me on my coding journey! 
+* Any learning resources that have been proven useful to you that'll help me - especially LeetCode related content! 
 * Any projects you've found that you think I'd find interesting!
