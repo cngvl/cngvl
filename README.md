@@ -7,6 +7,7 @@ Here's a bit about me!
 
 Projects that I'm currently working on 🧱 ...
 * Building my personal portfolio
+* Brushing up on my JS with simple projects
 * Slowly chipping away at LeetCode questions 💀💀💀
 <br>
 
