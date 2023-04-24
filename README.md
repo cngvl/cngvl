@@ -7,13 +7,14 @@ Here's a bit about me!
 <br>
 
 Projects that I'm currently working on 🧱 ...
-* Building my personal portfolio
-* Brushing up on my JS with small projects ( typing practice tool similar to [monkeytype](https://monkeytype.com/) ) 
+* Building my personal portfolio 🙋
+* Making a chrome extension pomodoro timer 🍅
 * Slowly chipping away at LeetCode questions 💀💀💀
 <br>
 
 Projects that I'm planning to do in the near future ⏳ ... 
 * an AirBnB clone using React and TypeScript ⚛️
+* Brushing up on my JS with small projects ( typing practice tool similar to [monkeytype](https://monkeytype.com/) ) 
 * Start working on some coding challenges! ⚙
 <br>
 
