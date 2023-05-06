@@ -7,9 +7,10 @@ Here's a bit about me!
 <br>
 
 Projects that I'm currently working on 🧱 ...
+* Slowly chipping away at LeetCode questions 💀💀💀
 * Building my personal portfolio 🙋
 * Making a chrome extension pomodoro timer 🍅
-* Slowly chipping away at LeetCode questions 💀💀💀
+
 <br>
 
 Projects that I'm planning to do in the near future ⏳ ... 
