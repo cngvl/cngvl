@@ -8,13 +8,13 @@ Here's a bit about me!
 Projects that I'm currently working on 🧱 ...
 * Slowly chipping away at LeetCode questions 💀💀💀
 * Building my personal portfolio 🙋
-* A discord bot that can track the frequency of specific phrases 🤖
+* A discord bot that can track the frequency of specific phrases and maybe some other fun features 🤖
 
 <br>
 
 Projects that I'm planning to do in the near future ⏳ ... 
-* an AirBnB clone using React and TypeScript ⚛️
 * Brushing up on my JS with small projects ( typing practice tool similar to [monkeytype](https://monkeytype.com/) and a chrome extension of a pomodoro timer 🍅 ) 
+* an AirBnB clone using React and TypeScript ⚛️
 <br>
 
 I'm looking for 👀 ...
