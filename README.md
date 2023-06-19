@@ -20,3 +20,7 @@ Projects that I'm planning to do in the near future ⏳ ...
 I'm looking for 👀 ...
 * Any learning resources that have been proven useful to you that'll help me - especially data structure and algorithm related content
 * Any projects you've found that you think I'd find interesting!
+* Any connections even if you just want to have a quick chat! 
+<br>
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/viet-cuong-le/)
