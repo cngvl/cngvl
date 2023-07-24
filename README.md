@@ -1,8 +1,7 @@
 # Hey there! 🫡
 
 Here's a bit about me!
-* I'm a recent bootcamp graduate looking to become a software engineer with a particular interest in physiology and medical technology.
-* I'm challenging myself to do at least 1 hour of code everyday for 100 days! (11 April '23 - 20 July '23)
+* I'm a recent bootcamp graduate looking to become a software engineer with a particular interest in physiology and medical tech.
 <br>
 
 Projects that I'm currently working on 🧱 ...
