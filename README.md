@@ -1,7 +1,7 @@
 # Hey there! 🫡
 
 Here's a bit about me!
-* I'm a recent bootcamp graduate looking to become a software engineer with a particular interest in physiology and medical tech.
+* I'm a "recent" bootcamp graduate looking to become a software engineer with a particular interest in physiology, automation and problem solving.
 <br>
 
 Projects that I'm currently working on 🧱 ...
@@ -11,9 +11,10 @@ Projects that I'm currently working on 🧱 ...
 <br>
 
 Projects that I'm planning to do in the future ⏳ ... 
-* Brushing up on my JS with small projects ( typing practice tool similar to [monkeytype](https://monkeytype.com/) and a chrome extension of a pomodoro timer 🍅 ) 
-* an AirBnB clone using React and TypeScript ⚛️
+* Brushing up on my JS with small projects ( typing practice tool similar to [monkeytype](https://monkeytype.com/) and a chrome extension of a pomodoro timer 🍅 )
+* A visualiser to show keyboard inputs ( similar to OBS plugin tool [Input Overlay](https://obsproject.com/forum/resources/input-overlay.552/) ) ⌨️ 
 * Building my personal portfolio 🙋
+* Learning more about Deep Q-Learning 🧠
 <br>
 
 I'm looking for 👀 ...
