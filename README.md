@@ -14,7 +14,7 @@ Projects that I'm planning to do in the future ⏳ ...
 * Brushing up on my JS with small projects ( typing practice tool similar to [monkeytype](https://monkeytype.com/) and a chrome extension of a pomodoro timer 🍅 )
 * A visualiser to show keyboard inputs ( similar to OBS plugin tool [Input Overlay](https://obsproject.com/forum/resources/input-overlay.552/) ) ⌨️ 
 * Building my personal portfolio 🙋
-* Learning more about Deep Q-Learning 🧠
+* Learning more about Reinforcement Learning 🧠
 <br>
 
 I'm looking for 👀 ...
