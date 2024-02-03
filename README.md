@@ -6,14 +6,12 @@ Here's a bit about me!
 
 Projects that I'm currently working on 🧱 ...
 * Slowly chipping away at LeetCode questions 💀💀💀
-* A mini project where I can add some reviews to some books I've read 📚
-
+* Building my personal portfolio 🙋
 <br>
 
 Projects that I'm planning to do in the future ⏳ ... 
 * Brushing up on my JS with small projects ( typing practice tool similar to [monkeytype](https://monkeytype.com/) and a chrome extension of a pomodoro timer 🍅 )
 * A visualiser to show keyboard inputs ( similar to OBS plugin tool [Input Overlay](https://obsproject.com/forum/resources/input-overlay.552/) ) ⌨️ 
-* Building my personal portfolio 🙋
 * Learning more about Reinforcement Learning 🧠
 <br>
 
