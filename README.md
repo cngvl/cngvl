@@ -1,7 +1,7 @@
 # Hey there! 🫡
 
 Here's a bit about me!
-* I'm a bootcamp graduate with a background in scientific research looking to become a software engineer with a particular interest in physiology, automation and problem solving.
+* I'm a tech bootcamp graduate with a background in scientific research looking to become a software engineer with a particular interest in physiology, automation and problem solving.
 <br>
 
 Projects that I'm currently working on 🧱 ...
