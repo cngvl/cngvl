@@ -2,11 +2,11 @@
 
 Here's a bit about me!
 * I'm a tech bootcamp graduate with a background in scientific research looking to become a software engineer with a particular interest in physiology, automation and problem solving.
+* Have a look at [my personal portfolio page](https://cngvl.github.io/portfolio-react/)!
 <br>
 
 Projects that I'm currently working on 🧱 ...
 * Slowly chipping away at LeetCode questions 💀💀💀
-* Building my personal portfolio 🙋
 <br>
 
 Projects that I'm planning to do in the future ⏳ ... 
