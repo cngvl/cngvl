@@ -7,7 +7,7 @@ Here's a bit about me!
 
 Projects that I'm currently working on 🧱 ...
 * Slowly chipping away at LeetCode questions 💀💀💀
-* A bot that can scrape and text the petrol prices of local petrol stations. 
+* A bot that can scrape and text the petrol prices of local petrol stations. ⛽️
 <br>
 
 Projects that I'm planning to do in the future ⏳ ... 
