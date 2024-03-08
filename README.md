@@ -8,7 +8,7 @@ Here's a bit about me!
 Projects that I'm currently working on 🧱 ...
 * Slowly chipping away at LeetCode questions 💀💀💀
 * Not really a project but I'm trying to be more efficient by learning vim motions!
-* * Update: I am STRUGGLING 🫠
+  * Update: I am STRUGGLING 🫠
 * Learning more about system design and architecture 🏛. 
 <br>
 
